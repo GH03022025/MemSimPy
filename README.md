@@ -15,7 +15,7 @@
 2. 克隆本仓库
 3. 安装依赖：
    ```bash
-   pip install -r requirements.txt
+   pip install pyqt5
    ```
 4. 运行主程序：
    ```bash
